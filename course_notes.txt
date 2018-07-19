@@ -1,0 +1,5 @@
+Git Notes:
+
+git remote add <name> <url>
+git remote rm <name>
+git push -u <name> <branch>
